@@ -2,10 +2,10 @@
   "author": "Caleb Doxsey <caleb@doxsey.net>",
   "name": "rbsa",
   "description": "Returns Based Style Analysis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/badgerodon/nodejs-rbsa.git"
+    "url": "git://github.com/Chromatical/node-rbsa.git"
   },
   "main": "rbsa",
   "scripts": {
