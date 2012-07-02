@@ -1,4 +1,4 @@
-This library performances returns-based style analysis against a list of indices. Usage is straightforward:
+This library performs returns-based style analysis against a list of indices. Usage is straightforward:
 
 	var RBSA = require('rbsa').ReturnsBasedStyleAnalysis;
 	var rbsa = new RBSA();
